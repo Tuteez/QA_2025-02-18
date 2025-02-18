@@ -1,0 +1,6 @@
+Testing vs QA (Tester vs QA)
+ISTQB intro
+What is testing?
+7 Principles of software testing
+
+Namų darbai: Duoti du paveiksliukai, reikia parašyti, kas ten negerai.
