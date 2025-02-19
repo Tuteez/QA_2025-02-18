@@ -1,0 +1,7 @@
+Bug types (functional, usability etc)
+Bugs (defect, fauls etc) accordingly ISTQB
+Bug reporting
+
+Namų darbai: https://sweetshop.netlify.app/ 
+1. Test and report bugs to text file
+2. Split app to different functionalities, assign found bugs to it. 

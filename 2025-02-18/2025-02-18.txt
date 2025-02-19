@@ -2,5 +2,8 @@ Testing vs QA (Tester vs QA)
 ISTQB intro
 What is testing?
 7 Principles of software testing
+Info šaltiniai: Pokalbiai apie kokybę, softwaretestingweekly.com
 
-Namų darbai: Duoti du paveiksliukai, reikia parašyti, kas ten negerai.
+Namų darbai: 
+Duoti du paveiksliukai, reikia parašyti, kas ten negerai.
+PAK? :)
