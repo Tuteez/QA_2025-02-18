@@ -1,0 +1,11 @@
+Testing levels (pyramid)
+Testing types:
+Functional vs non functional
+Regression
+Smoke (sanity)
+Positive vs negative
+Box
+Confirmation (re-testing)
+Statinis vs dinaminis
+
+Homework: How you would test a pencil ?

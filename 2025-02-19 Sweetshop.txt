@@ -1,6 +1,16 @@
 Bug types (functional, usability etc)
 Bugs (defect, fauls etc) accordingly ISTQB
-Bug reporting
+Bug reporting:
+ID
+Title
+Env (browsers version, OS etc)
+Steps to reproduce
+Expected result
+Actual result
+Testing date
+Who registered
+
+
 
 Namų darbai: https://sweetshop.netlify.app/ 
 1. Test and report bugs to text file
