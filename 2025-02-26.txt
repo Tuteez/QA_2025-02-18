@@ -1,7 +1,0 @@
-jira
-Test cases (not a bug report ), scenarios etc. 
-
-HW: https://todolist.james.am/#/
-
-create account in trello
-add 3 test cases and report 1 bug
