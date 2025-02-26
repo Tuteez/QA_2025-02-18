@@ -1,5 +1,5 @@
 SDLC (Software Development Life Cycle)
 Waterfall vs Agile (Scrum, kanban)
-Scream team (Development team)
+Scrum team (Development team)
 Aplinkos (Local* - Dev - QA - Stage / PreProd - Production)
 Scrum artefacts, ceremonies.
