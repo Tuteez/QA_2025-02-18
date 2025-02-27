@@ -5,3 +5,16 @@ HW: https://todolist.james.am/#/
 
 create account in trello.com
 add 3 test cases and report 1 bug
+
+Bug:
+Title: Item left count is decreased by one 
+Steps to reproduce: 
+    1. Add "a" 
+Actual result: 0 items left
+Expected result: 1 items left
+
+TC: 
+Title: Item left count displaying correct number
+Steps: 
+    1. Add "a" 
+Expected result: 1 items left

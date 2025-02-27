@@ -1,0 +1,3 @@
+HW: Patobulinti praeitos dienos test case ir bug report.
+
+Pagrindiniam funkcionalumui TC, rastiems bugams - BR.
