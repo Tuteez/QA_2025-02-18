@@ -1,0 +1,8 @@
+Consider the decision table for an Upload screen.
+There is a dialogue box that will ask the user to upload a photo with the following conditions:
+
+•	The file must be in the .jpg format.
+•	The file size must be less than 32kb.
+•	The image resolution must be 137*177.
+
+If any one of the above conditions fails, the system will display the corresponding error messages about the issue. If all conditions are satisfied, the photo will be uploaded successfully
