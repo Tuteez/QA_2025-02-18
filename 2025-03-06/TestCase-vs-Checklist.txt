@@ -1,0 +1,27 @@
+TEST CASE:
+
+Title : User can login
+Steps: 
+    1. open login page
+    2. set username
+    3. set password
+    4. click login
+Data:
+username - "asasa"
+password - "asasasasas"
+
+Expected result: user is logged in
+
+
+Checklist:
+1. User can login.
+
+
+TC 
+ DONT need knowladge of software +
+ time consuming -
+
+
+Checklist
+ need knowladge of software -
+ need less time + 

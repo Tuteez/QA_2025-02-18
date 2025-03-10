@@ -1,0 +1,66 @@
+https://docs.google.com/forms/d/e/1FAIpQLSfqSRBYWpzmfj6MfnOUEci1vuz0JWPZp7lVJsSI3nbO29ZUWQ/viewform
+
+Ką žinote experience based testavimo technikas ?
+
+by ISTQB Foundation: 
+1. Error guessing
+2. Exploritory
+3. Checklist based
+
+others:
+1. ad hoc 
+2. tour testing
+3. etc...
+
+
+Kokius PĮ kūrimo modelius (SDLC?) žinote? Kokia jų esmė?
+SDLC - software develompent life cycle
+Waterfall: sekantis etapas prasideda tik kai baigiasi esamas. 
+Labiau tinka mažiems projektams.
+Kai yra griežtas reglamentavimas. 
+
+Agile: iteracijos.
+(skirstomas į: scrum, kanban, extreme programing etc): 
+
+Atributai:
+Sprintai - laiko tarpas per kuri komanda atlieka tam tikra darbų kiekį. (2-3sav.)
+MVP - Minimal viable product. 
+Agile meetings (ceremonies)
+- daily (daily meeting, daily standup, standup): kasdien. Greitas aptarimas (vakar? šiandien? problemos?)
+    dalyvauja scrum team (scrum master, dev, qa, ba, pm, dizaineris etc...) Klientas (užakovas) nedalyvauja. 
+
+- Retro. sprinto aptarimas su komanda. Apie procesus. Kas buvo gerai? kas buvo blogai ? -> action item
+- Sprint review (demo).  Darbo demonstravimas užsakovams
+- Sprint planning. Prioretizavimas
+- Backlog refinement (grooming). Review backlog. Estimating effort. 
+
+Scrum vs kanban: kanban paprastenis, įprastai be sprintu, orentuojamasi į taskus (boardą). 
+Agile manifesto. 
+
+Kas yra "Ice cream" anti paternas?
+Apversta piramidė, kai unit testai yra viršuje, kas reiškia jų yra mažiausiai. 
+System, atvirkščiai - apačioje, reiškia jų būna daugiausiai. 
+
+Kokius žinote nefunkcinio testavimo tipus?
+ - Main: Security, Performance (load), A11y (usability). 
+ - Others: Portability, Reliability
+
+
+Kokius žinote testavimo principus?
+1. Shows presence of errors
+2. Exhaustive testing is impossible
+3. Early testing (shift left testing)
+4. Defect clustering
+5. Pesticide paradox
+6. Testing is context dependent
+7. Absence of errors fallacy
+
+Kokios trys dalys paprastai sudaro web aplikaciją?
+UI -> Front end -> Client side (pvz naršyklė)
+DB (duomenys)
+Serveris -> Back end -> Server side
+
+Kokie yra nepriklausomo testavimo privalumai ir trūkumai?
+Independent QA vs QA in dev team
+privalumai: objektyvus, nešališkumas
+trūkumai: komunikacijos bėdos, neefektyvus darbas, sunkiau pasamdyt
