@@ -1,19 +1,22 @@
 API - Application programming interface
 
-Request (užklausa): Method, URL(endpoint), Headers (meta info), Body (json)
-Response (atsakymas): Status code, Headers (meta info), Body (json)
-
-
-
 Naršyklėje: headers - request & response info, paylod - requet body, preview - response body.
 
-Homework: 
-1. install https://www.postman.com/
-2. pažiūrėti https://www.youtube.com/watch?v=DhQbYVz31yY
-3. Įvardinti grupes, pateikti pavyzdį. Su kokiom grupėm dažniausiai susidariama?
-Http metodai, 5 grupes:
-1.
-2.
-3.
-4. Klaida kliento (front end) pusėje, pvz nerastas puslapis.
-5.
+Request (užklausa): Method, URL(endpoint), Headers (meta info), Body (json)
+Response (atsakymas): Status code, Headers (meta info), Body (json)
+Query params / Path params.
+
+Http metodai. CRUD
+GET - Read
+PUT - Update
+POST - Create
+DELETE - Delete
+ etc...
+
+
+Status code, 5 grupes:
+1xx. INFO. Retai sutinkama.
+2xx. OK. dažniausiai sutinkama grupė, daugiausiai testuojama. 
+3xx. Peadresavimas. Retai sutinkama.
+4xx. Klaida kliento (front end) pusėje, pvz nerastas puslapis. Irgi testuojama (negative testing)
+5xx. Klaida serverio (back end) pusėje, pvz nepasiekiamas serveris.

@@ -1,0 +1,14 @@
+Sukurti kolekciją ir joje užklausas. https://api.meteo.lt/
+
+
+Pridėti testų. Status kodui ir reikšmėms (json value check).
+1. GET /places
+- patikrinti ar egzistuoja key "administrativeDivision" (nesvarbu kokia value)
+- Kiek viso yra vietovių?
+- patikrinti kad coordinates (longitude ir latitude) yra skaičiai
+2. GET /places/{place-code}
+- patikrinti kad tik viena vietovė
+- vietovė kurios prašėm (pagal kodą)
+
+Bonus. Papildyti negative testais.
+Bonus2. Iškelti baseUrl (api.meteo.lt/v1) į kintamiuosius. 
