@@ -20,3 +20,7 @@ Status code, 5 grupes:
 3xx. Peadresavimas. Retai sutinkama.
 4xx. Klaida kliento (front end) pusėje, pvz nerastas puslapis. Irgi testuojama (negative testing)
 5xx. Klaida serverio (back end) pusėje, pvz nepasiekiamas serveris.
+
+Postman. 
+chaijs assertions - https://www.chaijs.com/api/bdd/
+Variables scope: Local - env - collection - global

@@ -1,6 +1,6 @@
 Sukurti kolekciją ir joje užklausas. https://api.meteo.lt/
 
-
+I.
 Pridėti testų. Status kodui ir reikšmėms (json value check).
 1. GET /places
 - patikrinti ar egzistuoja key "administrativeDivision" (nesvarbu kokia value)
@@ -11,4 +11,10 @@ Pridėti testų. Status kodui ir reikšmėms (json value check).
 - vietovė kurios prašėm (pagal kodą)
 
 Bonus. Papildyti negative testais.
-Bonus2. Iškelti baseUrl (api.meteo.lt/v1) į kintamiuosius. 
+Bonus2. Iškelti baseUrl (api.meteo.lt/v1) į kintamuosius. 
+
+II.
+Pridėti pries esamu užklausų likusias dvi (/places)
+Parašyti jom testų, kad įsitikinti, kad jos dirba taip kaip nurodyta dokumentacijoje.
+Nepamirštam naudoti kintamujų, vengiam hardcoded duomenų (jie turi būt dinaminiai, kuo mažiau jautrūs pokyčiams)
+Bonus. Panaudoti path params.
