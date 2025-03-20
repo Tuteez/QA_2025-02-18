@@ -4,7 +4,6 @@ Naršyklėje: headers - request & response info, paylod - requet body, preview -
 
 Request (užklausa): Method, URL(endpoint), Headers (meta info), Body (json)
 Response (atsakymas): Status code, Headers (meta info), Body (json)
-Query params / Path params.
 
 Http metodai. CRUD
 GET - Read
@@ -12,7 +11,6 @@ PUT - Update
 POST - Create
 DELETE - Delete
  etc...
-
 
 Status code, 5 grupes:
 1xx. INFO. Retai sutinkama.
@@ -24,3 +22,9 @@ Status code, 5 grupes:
 Postman. 
 chaijs assertions - https://www.chaijs.com/api/bdd/
 Variables scope: Local - env - collection - global
+
+Swagger pvz https://petstore.swagger.io/#/
+
+Query params / Path params (variables).
+
+Schema testing

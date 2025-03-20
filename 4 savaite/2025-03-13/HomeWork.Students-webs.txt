@@ -1,7 +1,7 @@
 Taisija -  https://www.ainavaspa.lt/ +
-Indre - https://vilnius.lt/
+Indre - https://vilnius.lt/ -> https://www.gitana.lt/
 Erita - https://kakava.lt/
 Martynas - https://kursuok.lt/ +
-Rolandas - https://www.irankiusala.lt/
+Rolandas - https://www.irankiusala.lt/ +
 Jurgita - https://laistymoiranga.lt/ +
-Vita - https://kelioniuakademija.lt/
+Vita - https://kelioniuakademija.lt/ 
