@@ -1,0 +1,9 @@
+https://gorest.co.in/
+POST users
+// TODO generate email each time
+// patikrinti kad name = petras, email = test4@lang.example, gender = male, status = inactive (naudojam kintamuosius)
+// patikrinti kad viso yra 5 poros
+// TODO add negative tests (other requests)
+
+GET users
+pridėti  testu
