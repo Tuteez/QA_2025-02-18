@@ -1,0 +1,3 @@
+Pridėti Create todo ir get todos užklausas, pridėti testu.
+Pridėti update ir delete užklausas, pridėti testų.
+Išsiaiškinti dėl    "due_on": null, - kas tai yra? ar galima pridėti prie todo šią reikšmę?
