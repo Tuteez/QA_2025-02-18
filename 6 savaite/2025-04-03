@@ -1,0 +1,10 @@
+"email": "{{randomEmail}}" - imam iš savo variable
+"email": "{{$randomEmail}}", - naudojam postman sugeneruota, generuoja kaskart nauja.
+
+
+Automation.
+
+Automatinis testavimas gali būti...
+1. Scripting (programuojant)
+2. Codless record and play tools
+3. Partly Scripting (dalinai programuojant)
