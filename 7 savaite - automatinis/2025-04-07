@@ -1,0 +1,9 @@
+https://www.cypress.io/
+https://docs.cypress.io/app/get-started/install-cypress
+
+Projekto kurimas:
+1. Sukuriam tuščią aplanką
+2. VCS - open folder ir nurodom sukurtą aplanką
+3. Atsidarom terminalą (viršuje Terminal - New Terminal)
+4. Instaliuojam cypress - npm install cypress --save-dev (kopijuojam į terminalą)
+5. Atsidarom cypress - npx cypress open (pasirenkam E2E, importuojam pavizdinius testus, išsirenkam naršyklę ir t.t.)
