@@ -1,0 +1,24 @@
+https://www.w3schools.com/cssref/css_selectors.php
+
+.todo-list li - ieškom klasės todo-list, o poto elemento li
+.todo-list.item - ieškom elemento kuris turetu abi klases: todo-list ir item
+
+Trumpai -> .kazkokia-klase 
+Ilgai -> [class=kazkokia-klase]
+
+Trumpai -> #some-id
+Ilgai -> [id=some-id] 
+
+CSS sintakse - [attribute=value]
+[name=firstname]
+
+[attribute=value] - tag nesvarbu
+tag[attribute=value] - jei tag svarbu (tag: div, p, a, button, li etc)
+
+[attribute=value] - (equal) ieškom  atributo, kuris butu value
+[attribute*=alu] - (contains) ieškom atributo, kurio reikšmėje butu "alu" 
+
+Tarkim yra data-test="new-todo":
+[data-test=new-todo]
+[data-test*=new]
+Naudinga kai dalis lokatoriaus yra dinamiška pvz id=userName_asdfasdlgh563456 
