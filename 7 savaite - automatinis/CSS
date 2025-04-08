@@ -22,3 +22,10 @@ Tarkim yra data-test="new-todo":
 [data-test=new-todo]
 [data-test*=new]
 Naudinga kai dalis lokatoriaus yra dinamiška pvz id=userName_asdfasdlgh563456 
+
+".vienas, .du"
+
+ul li:only-child - randam ul, jame ieskom li kuris butu vienintelis vaikas
+ul :only-child - randam ul, o jame ieskom elemnto kuris butu vienintelis vaikas (tagas nesvarbu)
+
+Namu darbas: https://demoqa.com/text-box užpildyti visus 4 laukus, paspausti submit ir patkrinti kad visi laukai rodomo apačioje taisingai
