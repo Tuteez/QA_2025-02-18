@@ -1,0 +1,22 @@
+Kad naudoti cypress xpath:
+1. npm install - D cypress - xpath
+2. Kopijuojam "require('cypress-xpath');" į cypress / support / e2e.js
+3. naudojimas: cy.xpath('xpath selektorius')
+
+XPath =//tagname[@Attribute=’Value’] -> //button[@value=’Submit’]
+    CSS = button[value = Submit]
+
+    // - ieškos visame  gylyje
+    / - ieškos tik pirmame vaike
+
+tagName - jei nesvarbu, tai dedam * pvz //*[@value=’Submit’]
+
+//*[text()='Click Me']
+text() gali but tiesiog.
+
+Jei reikia nepirmo:
+(xpath lokatorius])[kelinto - reikia]
+    (//button[contains(text(),'Click Me')])[2]
+
+ HW - https://seleniumui.moderntester.pl/xpath-diner/index.html
+ https://selectorshub.com/selectorshub/
