@@ -1,0 +1,6 @@
+https://demoqa.com/login
+Parašyti negativu testą:
+Suvedam bet kokius prisijungimus, spaudžiaum "Login", tikrinam kad atsirado užrašas "Invalid username or password!"
+
+HW: https://demoqa.com/automation-practice-form 
+užpyldyti kiek gausis daugiau laukų, spausti "Submit" ir patikrinti kad atsirado užrašas "Thanks for submitting the form"
