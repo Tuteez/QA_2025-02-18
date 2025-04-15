@@ -1,0 +1,4 @@
+Turim "user can register" testą.
+Reikia pridėti antrą "user canot register without email"
+Abu testus įdėti į describe ("Registration)
+Svetainės atidarymą ir navagiavimą į Registration page perkelti į beforeEach
