@@ -1,0 +1,27 @@
+it('ka daryti kai yra keli elementai su vienodais lokatoriais', () => {
+    cy.visit('https://demoqa.com/text-box')
+
+    cy.get('.form-control') // randa visus elementus kurie atitinka lokatoriu t.y. 4
+    // jei reikia pirmo:
+    cy.get('.form-control').first() 
+    cy.get('.form-control').eq(0) 
+
+    //jei reikia paskutinio:
+    cy.get('.form-control').last() 
+
+    // jei reikia antro elemento
+    cy.get('.form-control').eq(1)
+
+    //ir kai isirenkam kazkelinta viena elementa tada galim daryt su juo click, type ir t.t.
+    })
+
+    Arrange - Act - Assert
+// Arrange - paruošiam testą
+// Act - atliekam veiksmą
+// Assert - patikrinam ar veiksmas buvo atliktas teisingai
+
+
+HW: 
+https://example.cypress.io/todo 
+parašyti kuo daugiau patikrinimų, kurie tikrinu ar svetainė nesiugriuvo. 
+Veiksmų (kažką rašyti, spausti ar pan) atilikti nereikia.
