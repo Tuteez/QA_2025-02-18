@@ -1,0 +1,14 @@
+Aplinkos (environment):
+Local - DEV - TEST (QA) - STAGE (demo) - Production / Prod (gamybine)
+Dar pagal poreikį gali būti:
+- Performance - našumo testavimui
+- Automation - automatizuotam testavimui
+- UAT - vartotojų testavimui
+
+
+Įrašyti pakeitimus į aplinka - įdiegti (deploy)
+Release - deploy to prod.
+
+
+Git fetch - patikrina ar yra pakeitimu
+Git pull - atsiunčia pakeitimus iš nuotolinio repo
