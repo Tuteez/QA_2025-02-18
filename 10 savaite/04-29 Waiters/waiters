@@ -1,0 +1,22 @@
+https://testpages.herokuapp.com/styled/progress-bars-sync.html
+
+Waiters in Cypress:
+Default waiter - 4 sec.
+
+Jei neužtenka default waiterio:
+1. Pakeisti default wait laiką:
+ - cypress.config.js, pridedam  defaultCommandTimeout : 10000 (tada default laikas pasikeis i 10s.)
+ - congfig vieta: projektas/cypress.config.js
+2. Liepti palaukti ilgiau konkrečioje vietoje:  
+ - cy.get('locator', { timeout: 10000 }) - milisekundes, 1000 - lauks 1s. 
+ -  { timeout: ms } - galima pridet prie cy.get, contains, find
+
+Task: https://demoqa.com/dynamic-properties (3 atskiri testai)
+1. Patikrinti, kad mygtukas "Will enable 5 seconds" yra enablintas
+2. Patikrinti, kad mygtukas "Color Change" pakeitė spalva
+3. Patikrinti, kad mygtukas "Visible After 5 Seconds" yra matomas
+
+ offtopic: 
+ ieskom vieno elemento, poto jame antro:
+  - cy.get('.fatherClass .childClass')
+  - cy.get('.fatherClass').find('.childClass')
