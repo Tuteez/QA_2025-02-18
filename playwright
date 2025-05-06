@@ -1,0 +1,5 @@
+Instaliavimas: npm init playwright@latest (reikia buti projekte)
+Paleisti ui runneri: npx playwright test --ui
+Paleisti visus testus: npx playwright test (pagal nutylejima narsykles nesimato, jei norim matyt reikia prideti --headed)
+
+
